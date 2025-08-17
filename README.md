@@ -76,8 +76,8 @@ A aplicação estará disponível em:
 ```
 POST /usuarios
 {
-  "login": "patrick",
-  "senha": "123456"
+  "login": "usuario",
+  "senha": "senha"
 }
 ```
 
@@ -85,7 +85,7 @@ POST /usuarios
 ```
 POST /topicos
 {
-  "autor": "Patrick",
+  "autor": "Autor",
   "titulo": "Título do Tópico",
   "mensagem": "Conteúdo da mensagem",
   "curso": "Nome do Curso",
@@ -106,5 +106,5 @@ Este projeto foi desenvolvido apenas para **estudo** das seguintes práticas:
 ---
 
 ## 👨‍💻 Autor
-Desenvolvido por **Patrick Henrique**  
+Desenvolvido por **Patrick Medeiros**  
 📌 Projeto acadêmico - 2025
